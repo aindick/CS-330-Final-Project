@@ -22,4 +22,4 @@
 -- How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 
 
-<img src="C:\Users\alexi\OneDrive\Pictures\final_project_CS_330.png" alt="Alt text" title="Final Project">
+
