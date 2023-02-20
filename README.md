@@ -29,7 +29,11 @@
 
 - How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
 
+ My approach to developing code got better and better. I felt like I was adding more to the final project as I completed each milestone. In the beginning though, I was not very good at understanding what was expected on each milestone. But as each week passed, I found myself gettinf better at extracting requirements and making them simpler to deal with. 
+
 - How can computer science help me in reaching my goals?
+
+ Computer science has always been a big motivator for me and reaching my end goals. Since I find video game development interesting, I could see how OpenGL would help with the creation of the graphics in a video game, whether it's 2D or 3D. I think this class has helped me to figure out what direction I want to go with computer science. 
 
 - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 
