@@ -33,5 +33,5 @@
 
 - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 
-
+<img src= "project-picture/final project CS 330.png">
 
