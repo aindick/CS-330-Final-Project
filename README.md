@@ -33,5 +33,5 @@
 
 - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 
-[Final Project Scene](final project CS 330.png "My 3D Scene")
+[Final Project Scene](Users/alexi/OneDrive/Pictures/final project CS 330.png "My 3D Scene")
 
