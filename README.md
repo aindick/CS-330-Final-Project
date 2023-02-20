@@ -21,9 +21,11 @@
 
 - What new development strategies did you use while working on your 3D scene?
 
-  Adding texture and lighting were the new strategies I had to consider for my 3D scene. This is mainly because in other programs, I haven't had to think about lighting or what texture would fit best on an object based on a photo. I had to play around with a few different lighting sources to get the right "feel" for what my photo had. Adding textures was a pretty big 
+  Adding texture and lighting were the new strategies I had to consider for my 3D scene. This is mainly because in other programs, I haven't had to think about lighting or what texture would fit best on an object based on a photo. I had to play around with a few different lighting sources to get the right "feel" for what my photo had. Adding textures was a pretty big development strategy since textures help "develop" the object further instead of just having an object with no color. 
 
 - How did iteration factor into your development?
+
+  Iteration helped me a lot with the development of my 3D scene. Interation is the repetition of instructions and in my 3D scene, I repeated many things over again like setting up the libraries, setting VAOS and VBOS up with objects, repeating the cylinder code for other objects other than the Dunkin bottle, etc. Iteration helped to get me to remember how to do things instead of going back and forth constantly to check if something was correct. 
 
 - How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
 
