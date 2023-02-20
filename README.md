@@ -17,7 +17,11 @@
 
 - How do I approach developing programs?
 
+  When I develop programs, I like to incrementally add things and test as I go. I find that this reduces time if I write code in smaller pieces and test each piece after I make it instead of just coding the entire program and then testing. 
+
 - What new development strategies did you use while working on your 3D scene?
+
+  Adding texture and lighting were the new strategies I had to consider for my 3D scene. This is mainly because in other programs, I haven't had to think about lighting or what texture would fit best on an object based on a photo. I had to play around with a few different lighting sources to get the right "feel" for what my photo had.
 
 - How did iteration factor into your development?
 
@@ -29,5 +33,5 @@
 
 - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 
-
+[Final Project Scene](C:\Users\alexi\OneDrive\Pictures\final project CS 330.png "My 3D Scene")
 
