@@ -37,7 +37,12 @@
 
 - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 
+  I think computational graphics and visualization could help me in a future educational pathway towards video game development. This is because I found that this class as really opened my eyes up to the possibilities in video game graphics design and has peeked my interest in learning more about it and other programs for video game development. 
+
 - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+  
+  I think computational graphics and visualization will also help me professionally and not just with video game development. Some employer may want me to represent data with a 3D model or to model a program in 3D. The skills I learned in this class will definitely be beneficial somewhere in my future whether it be with video game development or with representing data in 3D. 
+
 
 <img src= "project-picture/final project CS 330.png">
 
