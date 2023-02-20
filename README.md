@@ -21,7 +21,7 @@
 
 - What new development strategies did you use while working on your 3D scene?
 
-  Adding texture and lighting were the new strategies I had to consider for my 3D scene. This is mainly because in other programs, I haven't had to think about lighting or what texture would fit best on an object based on a photo. I had to play around with a few different lighting sources to get the right "feel" for what my photo had.
+  Adding texture and lighting were the new strategies I had to consider for my 3D scene. This is mainly because in other programs, I haven't had to think about lighting or what texture would fit best on an object based on a photo. I had to play around with a few different lighting sources to get the right "feel" for what my photo had. Adding textures was a pretty big 
 
 - How did iteration factor into your development?
 
